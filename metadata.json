@@ -1,0 +1,6 @@
+{
+  "name": "AJAF",
+  "description": "AJAF - Associação para Jovens e Adolescentes para o Futuro: Gestão de Formação Profissional e Biblioteca Técnica Digital",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
